@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Culinar</string>
+    <string name="title_home">Home</string>
+    <string name="title_back_home">Back to Home</string>
+    <string name="title_details_food">Details about Food selected</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
